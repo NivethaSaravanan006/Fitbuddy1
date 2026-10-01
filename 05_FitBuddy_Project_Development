@@ -1,0 +1,64 @@
+Phase 5 – Project Development
+
+1. Project Title
+FitBuddy – AI Fitness Plan Generator using Gemini Models
+
+2. Development Objective
+The objective of this phase is to develop the FitBuddy application and integrate Google Gemini AI to generate personalized fitness plans.
+
+3. Development Components
+
+3.1 User Interface
+The application will provide a form for entering:
+Name
+Age
+Height
+Weight
+Fitness goal
+Activity level
+Fitness experience
+Available workout time
+
+3.2 AI Integration
+Google Gemini will be integrated into the application to process the user's fitness information and generate a personalized fitness plan.
+
+3.3 Prompt Generation
+The application will create a prompt using the information entered by the user and send it to the Gemini model.
+
+3.4 Fitness Plan Generation
+Gemini will generate:
+Workout recommendations
+Weekly workout schedule
+Exercise suggestions
+General nutrition suggestions
+Fitness tips
+
+3.5 Output Display
+The generated fitness plan will be displayed on the application in a clear and readable format.
+
+4. Development Workflow
+User Input → Form Processing → Gemini AI → Generated Fitness Plan → Display Output
+
+5. Development Tools
+HTML
+CSS
+JavaScript
+Google Gemini API
+Visual Studio Code
+GitHub
+Web Browser
+
+6. Implementation
+The application will be developed step by step:
+Create the user interface.
+Create the fitness information form.
+Add JavaScript functionality.
+Connect the application with Gemini.
+Create the AI prompt.
+Generate the fitness plan.
+Display the result.
+Test the application.
+Fix errors and improve the interface.
+
+7. Expected Result
+The developed FitBuddy application will accept user fitness information and use Google Gemini to generate a personalized fitness plan.
