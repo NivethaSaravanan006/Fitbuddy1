@@ -1,0 +1,70 @@
+1. Project Title
+FitBuddy – AI Fitness Plan Generator using Gemini Models
+2. System Architecture
+FitBuddy consists of the following main components:
+User Interface – Collects user fitness details.
+Application Logic – Processes the user's information.
+Google Gemini AI – Generates a personalized fitness plan.
+Output Module – Displays the generated plan to the user.
+Flow:
+User → FitBuddy Interface → Application Logic → Gemini AI → Fitness Plan → User
+3. Input Design
+The application collects:
+Name
+Age
+Height
+Weight
+Fitness goal
+Activity level
+Fitness experience
+Available workout time
+4. Processing
+User enters fitness information.
+User selects a fitness goal.
+FitBuddy prepares an AI prompt.
+The prompt is sent to the Gemini model.
+Gemini generates a personalized fitness plan.
+The generated plan is displayed to the user.
+5. Output Design
+The system generates:
+Personalized workout plan
+Exercise recommendations
+Weekly workout schedule
+General nutrition suggestions
+Fitness tips
+6. Use Case
+User
+ ↓
+ Enter Fitness Details
+ ↓
+ Select Fitness Goal
+ ↓
+ Generate Fitness Plan
+ ↓
+ View AI-Generated Plan
+ ↓
+ Regenerate Plan if Required
+7. User Interface Design
+The application will contain:
+Home page
+Fitness information form
+Goal selection
+Generate Plan button
+AI-generated fitness plan page
+Regenerate Plan option
+8. Technology Design
+Component
+Technology
+Frontend
+HTML, CSS, JavaScript
+AI Model
+Google Gemini
+Backend
+JavaScript/appropriate backend
+Development
+VS Code
+Version Control
+GitHub
+
+9. Expected Design Outcome
+The design provides a simple interface where users can enter their fitness information and receive an AI-generated personalized fitness plan through Gemini.
