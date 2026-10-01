@@ -1,0 +1,73 @@
+FITBUDDY – AI FITNESS PLAN GENERATOR USING GEMINI MODELS
+
+PHASE 1: BRAINSTORMING & IDEATION
+
+1. PROJECT IDEA
+
+FitBuddy is an AI-powered fitness assistant that generates
+personalized fitness plans using Google Gemini models.
+
+2. PROBLEM IDENTIFICATION
+
+Many people want to improve their fitness but are unsure
+which exercises and routines are suitable for their fitness
+goals and experience level.
+
+3. PROPOSED SOLUTION
+
+FitBuddy collects basic information from the user and uses
+Gemini AI to generate a personalized fitness plan.
+
+4. TARGET USERS
+
+• Beginners
+• Students
+• Fitness enthusiasts
+• People starting a workout routine
+
+5. MAIN FEATURES
+
+• User fitness information
+• Fitness goal selection
+• AI-generated workout plan
+• Exercise recommendations
+• General nutrition suggestions
+• Personalized weekly plan
+• Option to generate a new plan
+
+6. TECHNOLOGY IDEA
+
+Frontend: HTML, CSS, JavaScript
+AI: Google Gemini
+Backend: To be decided according to project requirements
+
+7. EXPECTED BENEFITS
+
+• Saves time in creating a fitness routine
+• Provides personalized suggestions
+• Easy for beginners to understand
+• Uses Generative AI for customized recommendations
+
+8. PROJECT GOAL
+
+To develop an easy-to-use AI fitness assistant that helps
+users generate personalized fitness plans using Google
+Gemini models.
+
+
+                         FITBUDDY
+                            |
+        ┌───────────────────┼───────────────────┐
+        |                   |                   |
+     USER DAT            GEMINI AI          FITNESS GOAL
+        |                   |                   |
+   Age/Height           AI Processing       Weight Loss
+   Activity Level      Plan Generation      Muscle Gain
+   Experienc                               General Fitness
+                            |
+                    PERSONALIZED PLAN
+                            | 
+              ┌─────────────┴─────────────┐
+              |                           |
+        WORKOUT PLAN                 NUTRITION TIPS
+ 
