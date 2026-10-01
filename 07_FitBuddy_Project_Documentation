@@ -1,0 +1,78 @@
+Phase 7 – Project Documentation
+
+1. Project Title
+FitBuddy – AI Fitness Plan Generator using Gemini Models
+
+2. Project Overview
+FitBuddy is an AI-powered fitness application that uses Google Gemini models to generate personalized fitness plans based on user-provided fitness information and goals.
+
+3. Problem Statement
+Many people want to start or improve their fitness routine but may not know which exercises or workout schedules are suitable for them. FitBuddy aims to provide an easy-to-use AI-based solution for generating personalized fitness guidance.
+
+4. Project Objectives
+Collect basic fitness information from users.
+Understand the user's fitness goal.
+Generate personalized workout recommendations.
+Provide a weekly workout schedule.
+Provide general nutrition suggestions.
+Use Gemini AI to generate responses.
+
+5. Technologies Used
+Frontend: HTML, CSS, JavaScript
+AI Model: Google Gemini
+Code Editor: Visual Studio Code
+Version Control: GitHub
+Browser: Google Chrome
+
+6. System Workflow
+User enters details
+ ↓
+ Selects fitness goal
+ ↓
+ Application processes information
+ ↓
+ Request sent to Gemini AI
+ ↓
+ Gemini generates fitness plan
+ ↓
+ Plan displayed to user
+
+7. Main Features
+User fitness information form
+Fitness goal selection
+AI-generated workout plan
+Exercise recommendations
+Weekly schedule
+General nutrition suggestions
+Regenerate plan option
+
+8. Testing Summary
+The application is tested using different user inputs to verify:
+Input validation
+Button functionality
+Gemini response generation
+Fitness plan display
+Error handling
+User interface functionality
+
+9. Expected Benefits
+Easy to use for beginners.
+Saves time in planning workouts.
+Provides personalized AI-generated suggestions.
+Demonstrates the practical use of Generative AI.
+
+10. Limitations
+The generated information depends on the quality of the user's input and AI response.
+The application requires an internet connection for Gemini AI.
+AI-generated fitness guidance should not replace professional medical or fitness advice.
+
+11. Future Enhancements
+User login and profile management.
+Progress tracking.
+Workout reminders.
+Exercise demonstration videos.
+Improved personalization.
+Mobile application version.
+
+12. Conclusion
+FitBuddy demonstrates how Google Gemini models can be used to create an AI-powered fitness plan generator. The application accepts user fitness information and generates personalized fitness suggestions through Generative AI.
