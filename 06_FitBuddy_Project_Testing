@@ -1,0 +1,75 @@
+Phase 6 – Project Testing
+
+1. Project Title
+FitBuddy – AI Fitness Plan Generator using Gemini Models
+
+2. Testing Objective
+The objective of this phase is to test the FitBuddy application and verify that it works correctly for different user inputs.
+
+3. Testing Methods
+
+3.1 Functional Testing
+Check whether each feature works as expected:
+User can enter fitness details.
+User can select a fitness goal.
+Generate Plan button works.
+Gemini generates a response.
+Generated fitness plan is displayed correctly.
+Regenerate option works.
+
+3.2 Input Testing
+Test the application using different:
+Ages
+Heights and weights
+Fitness goals
+Activity levels
+Fitness experience levels
+
+3.3 User Interface Testing
+Check whether:
+All fields are clearly visible.
+Buttons work correctly.
+Text is readable.
+The application works properly on different screen sizes.
+
+3.4 Error Testing
+Check how the application responds when:
+Required fields are empty.
+Invalid information is entered.
+Internet connection is unavailable.
+Gemini does not return a response.
+
+4. Test Cases
+Test Case
+Input/Action
+Expected Result
+TC01
+Enter valid fitness details
+Details accepted
+TC02
+Leave required field empty
+Appropriate message displayed
+TC03
+Select fitness goal
+Goal selected successfully
+TC04
+Click Generate Plan
+AI fitness plan generated
+TC05
+View generated plan
+Plan displayed correctly
+TC06
+Click Regenerate
+New plan generated
+TC07
+Enter invalid input
+Error/validation message displayed
+TC08
+Test without internet
+Appropriate error message displayed
+
+5. Expected Testing Result
+The FitBuddy application should accept valid user information, communicate with the Gemini model, and display the generated fitness plan correctly.
+
+6. Conclusion
+Testing helps identify and fix errors before the final demonstration. The application will be improved based on the issues found during testing.
