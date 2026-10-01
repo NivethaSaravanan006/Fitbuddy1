@@ -1,0 +1,91 @@
+FITBUDDY – AI FITNESS PLAN GENERATOR USING GEMINI MODELS
+
+PHASE 2: REQUIREMENT ANALYSIS
+
+1. INTRODUCTION
+
+FitBuddy is an AI-powered fitness plan generator that uses
+Google Gemini models to create personalized fitness plans
+based on user-provided fitness information.
+
+2. PROBLEM STATEMENT
+
+Many users find it difficult to create a suitable workout
+routine according to their fitness goals, experience level
+and available time. FitBuddy aims to provide an easy way
+to generate a personalized fitness plan using Generative AI.
+
+3. OBJECTIVES
+
+• Collect fitness details from users.
+• Understand the user's fitness goal.
+• Generate personalized workout plans using Gemini.
+• Provide exercise recommendations.
+• Provide general nutrition suggestions.
+• Make the system simple and easy to use.
+
+4. FUNCTIONAL REQUIREMENTS
+
+The system should:
+
+• Allow users to enter their fitness information.
+• Allow users to select their fitness goal.
+• Process the user's information.
+• Send an appropriate prompt to the Gemini model.
+• Generate a personalized fitness plan.
+• Display the generated plan clearly.
+• Allow users to generate another plan.
+
+5. NON-FUNCTIONAL REQUIREMENTS
+
+• The application should be easy to use.
+• The system should respond within a reasonable time.
+• User input should be handled safely.
+• The application should provide readable results.
+• The system should be reliable and maintainable.
+
+6. INPUTS
+
+• Name
+• Age
+• Height
+• Weight
+• Fitness goal
+• Activity level
+• Fitness experience
+• Available workout time
+
+7. OUTPUTS
+
+• Personalized workout plan
+• Exercise recommendations
+• Weekly schedule
+• General nutrition suggestions
+• Fitness tips
+
+8. TARGET USERS
+
+• Beginners
+• Students
+• Fitness enthusiasts
+• People starting a fitness routine
+
+9. HARDWARE REQUIREMENTS
+
+• Computer/Laptop
+• Internet connection
+• Minimum 4 GB RAM recommended
+
+10. SOFTWARE REQUIREMENTS
+
+• Web browser
+• Code editor
+• HTML/CSS/JavaScript
+• Google Gemini API
+• GitHub
+
+11. EXPECTED OUTCOME
+
+The final system should allow a user to enter their fitness
+details and receive a personalized fitness plan generated
+using Google Gemini.
